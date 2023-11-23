@@ -24,6 +24,36 @@ Execute the programs and publish them.
 
 ## CODE
 ```
+
+map.html
+
+
+<html>
+<head>
+    <title>MY CITY</title>
+    </head>
+    <body>
+        <h1 align="center">
+            <font color="red"><b>CHINTHAMANI</b></font>
+         </h1>
+         <h3 align="center">
+            <font color="blue"><b>KAVINILAVAN D.K (23014025)</b></font>
+         </h3>
+         <center>
+            <img src="map.png" usemap="#MYCITY" height="610" width="1450">
+            <map name="MYCITY">
+                <area shape="rect" coords="600,150,1050,400" href="home.html" title="MY HOME TOWN">
+                <area shape="circle" coords="1200,200,70" href="temple.html" title="sri selva vinayagar kovil">
+                <area shape="rect" coords="1000,20,1100,80" href="hospital.html" title="government villupuram medical college">
+                <area shape="rect" coords="1100,400,1200,500" href="farm.html" title="kms farm">
+                <area shape="rect" coords="500,500,600,600" href="school.html" title="naahar public school">
+            </map>
+         </center>
+    </body>
+</html>
+
+
+
  home.html
 
  <html>
@@ -156,10 +186,12 @@ It is a small farm might cultivate crops like rice, millets, or sugarcane, refle
 ```
 
 ## OUTPUT
-![Alt text](<Screenshot (38).png>)
-![Alt text](<Screenshot (41).png>)
-![Alt text](<Screenshot (40).png>)
-![Alt text]![](<Screenshot (42).png>)
-![Alt text](<Screenshot (42).png>)
+![Alt text](map.png)
+![Alt text](home.png)
+![Alt text](temple.png)
+![Alt text](school.png)
+![Alt text](college.png)
+![Alt text](farm.png)
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
