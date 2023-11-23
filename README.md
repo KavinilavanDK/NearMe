@@ -156,12 +156,10 @@ It is a small farm might cultivate crops like rice, millets, or sugarcane, refle
 ```
 
 ## OUTPUT
-![Alt text](<Screenshot (32).png>)
-![Alt text](<nilavan/mapapp/static/Screenshot (38).png>)
-![Alt text](<nilavan/mapapp/static/Screenshot (39).png>)
-![Alt text](<nilavan/mapapp/static/Screenshot (41).png>)
-![Alt text](<nilavan/mapapp/static/Screenshot (40).png>)
-![Alt text](<nilavan/mapapp/static/Screenshot (42).png>)
-
+![Alt text](<Screenshot (38).png>)
+![Alt text](<Screenshot (41).png>)
+![Alt text](<Screenshot (40).png>)
+![Alt text]![](<Screenshot (42).png>)
+![Alt text](<Screenshot (42).png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
