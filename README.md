@@ -24,45 +24,18 @@ Execute the programs and publish them.
 
 ## CODE
 ```
-map.html
+ home.html
 
-
-<html>
-<head>
-    <title>MY CITY</title>
-    </head>
-    <body>
-        <h1 align="center">
-            <font color="red"><b>CHINTHAMANI</b></font>
-         </h1>
-         <h3 align="center">
-            <font color="blue"><b>KAVINILAVAN D.K (23014025)</b></font>
-         </h3>
-         <center>
-            <img src="map.png" usemap="#MYCITY" height="610" width="1450">
-            <map name="MYCITY">
-                <area shape="rect" coords="600,150,1050,400" href="home.html" title="MY HOME TOWN">
-                <area shape="circle" coords="1200,200,70" href="temple.html" title="sri selva vinayagar kovil">
-                <area shape="rect" coords="1000,20,1100,80" href="hospital.html" title="government villupuram medical college">
-                <area shape="rect" coords="1100,400,1200,500" href="farm.html" title="kms farm">
-                <area shape="rect" coords="500,500,600,600" href="school.html" title="naahar public school">
-            </map>
-         </center>
-    </body>
-</html>
-
-home.html
-
-<html>
+ <html>
     <head>
         <title>MY HOME TOWN</title>
 
     </head>
     <body bgcolor ="pink">
-        <h1 align=""centre">
+        <h1 align="center">
         <font color="black"><b>CHINTHAMANI</b></font>
     </h1>
-    <h3 align="centre">
+    <h3 align="center">
         <font color="lavender"><b>MY HOME</b></font>
     </h3>
     <hr size="3" color="grey">
@@ -75,81 +48,6 @@ near a national highway road and a government medical college is suituated nearl
     </body>
 </html>
 
-
-school.html
-
-<html>
-    <head>
-        <title>MY HOME TOWN</title>
-
-    </head>
-    <body bgcolor ="grey">
-        <h1 align=""centre">
-        <font color="red"><b>CHINTHAMANI</b></font>
-    </h1>
-    <h3 align="centre">
-        <font color="blue"><b>NAAHAR PUBLIC SCHOOL</b></font>
-    </h3>
-    <hr size="3" color="lavender">
-    <p align="justify">
-<font face "Georgia" size="5"></font>
-It is the CBSE school it is suituated in near by the national highways and it has a bus stop near it. It is cover with a 
-greenland and it seems so beautiful infrastucture and it has a good records in results. They gives 100 percentage results
-in  their higher exams. Some of them were in good positions today.
-</p >
-    </body>
-</html>
-
-hospital.html
-
-<html>
-    <head>
-        <title>MY HOME TOWN</title>
-
-    </head>
-    <body bgcolor ="cream">
-        <h1 align=""centre">
-        <font color="red"><b>MUNDIYAMPAKKAM</b></font>
-    </h1>
-    <h3 align="centre">
-        <font color="blue"><b>MEDIACAL GOVERNEMNT COLLEGE</b></font>
-    </h3>
-    <hr size="3" color="lavender">
-    <p align="justify">
-<font face "Georgia" size="5"></font>
-The founder of this hospital was the honarable ex cm MU.Karunathi, it was built in 2007 and it has a beautiful view.
-It has enough medical facilities and doctors. They are very caring the medcal college was good and faculties were so
-caring and they elobrately tell the concept. 
-</p >
-    </body>
-</html>
-
-farm.html
-
-<html>
-    <head>
-        <title>MY HOME TOWN</title>
-
-    </head>
-    <body bgcolor ="green">
-        <h1 align=""centre">
-        <font color="red"><b>MUNDIYAMPAKKAM</b></font>
-    </h1>
-    <h3 align="centre">
-        <font color="blue"><b>KMS FARM</b></font>
-    </h3>
-    <hr size="3" color="lavender">
-    <p align="justify">
-<font face "Georgia" size="5"></font>
-It is a small farm might cultivate crops like rice, millets, or sugarcane, reflecting the region's diverse agriculture.
- Farmers often use traditional methods and may face challenges like water scarcity. Livestock such as cows or goats could be part
-  of the farm, contributing to the rural economy. The farm life there is closely tied to the seasons, with festivals and rituals
-   often linked to agricultural cycles.
-</p >
-    </body>
-</html>
-
-
 temple.html
 
 <html>
@@ -157,11 +55,11 @@ temple.html
         <title>MY HOME TOWN</title>
 
     </head>
-    <body bgcolor ="white">
-        <h1 align=""centre">
+    <body bgcolor ="cyan">
+        <h1 align="center">
         <font color="red"><b>CHINTHAMANI</b></font>
     </h1>
-    <h3 align="centre">
+    <h3 align="center">
         <font color="blue"><b>SRI SELVA VINAYAGAR KOVIL</b></font>
     </h3>
     <hr size="3" color="lavender">
@@ -176,6 +74,81 @@ In the temple is beautiful and it was located in the hillock.
 </html>
 
 
+school.html
+
+<html>
+    <head>
+        <title>MY HOME TOWN</title>
+
+    </head>
+    <body bgcolor ="grey">
+        <h1 align="center">
+        <font color="red"><b>CHINTHAMANI</b></font>
+    </h1>
+    <h3 align="center">
+        <font color="blue"><b>NAAHAR PUBLIC SCHOOL</b></font>
+    </h3>
+    <hr size="3" color="lavender">
+    <p align="justify">
+<font face "Georgia" size="5"></font>
+It is the CBSE school it is suituated in near by the national highways and it has a bus stop near it. It is cover with a 
+greenland and it seems so beautiful infrastucture and it has a good records in results. They gives 100 percentage results
+in  their higher exams. Some of them were in good positions today.
+</p >
+    </body>
+</html>
+
+
+hospital.html
+
+<html>
+    <head>
+        <title>MY HOME TOWN</title>
+
+    </head>
+    <body bgcolor ="cream">
+        <h1 align="center">
+        <font color="red"><b>MUNDIYAMPAKKAM</b></font>
+    </h1>
+    <h3 align="center">
+        <font color="blue"><b>MEDIACAL GOVERNEMNT COLLEGE</b></font>
+    </h3>
+    <hr size="3" color="lavender">
+    <p align="justify">
+<font face "Georgia" size="5"></font>
+The founder of this hospital was the honarable ex cm MU.Karunathi, it was built in 2007 and it has a beautiful view.
+It has enough medical facilities and doctors. They are very caring the medcal college was good and faculties were so
+caring and they elobrately tell the concept. 
+</p >
+    </body>
+</html>
+
+
+
+farm.html
+
+<html>
+    <head>
+        <title>MY HOME TOWN</title>
+
+    </head>
+    <body bgcolor ="green">
+        <h1 align="center">
+        <font color="red"><b>MUNDIYAMPAKKAM</b></font>
+    </h1>
+    <h3 align="center">
+        <font color="blue"><b>KMS FARM</b></font>
+    </h3>
+    <hr size="3" color="lavender">
+    <p align="justify">
+<font face "Georgia" size="5"></font>
+It is a small farm might cultivate crops like rice, millets, or sugarcane, reflecting the region's diverse agriculture.
+ Farmers often use traditional methods and may face challenges like water scarcity. Livestock such as cows or goats could be part
+  of the farm, contributing to the rural economy. The farm life there is closely tied to the seasons, with festivals and rituals
+   often linked to agricultural cycles.
+</p >
+    </body>
+</html>
 
 
 
@@ -183,16 +156,12 @@ In the temple is beautiful and it was located in the hillock.
 ```
 
 ## OUTPUT
-
 ![Alt text](<Screenshot (32).png>)
-![Alt text](<Screenshot (33).png>)
-![Alt text](<Screenshot (34).png>)
-![Alt text](<Screenshot (35).png>)
-![Alt text](<Screenshot (36).png>)
-![Alt text](<Screenshot (37).png>)
-
-## HTML VALIDATOR
-
+![Alt text](<nilavan/mapapp/static/Screenshot (38).png>)
+![Alt text](<nilavan/mapapp/static/Screenshot (39).png>)
+![Alt text](<nilavan/mapapp/static/Screenshot (41).png>)
+![Alt text](<nilavan/mapapp/static/Screenshot (40).png>)
+![Alt text](<nilavan/mapapp/static/Screenshot (42).png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
